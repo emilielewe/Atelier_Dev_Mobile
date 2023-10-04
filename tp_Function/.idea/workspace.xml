@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee5077e8-5e51-43c2-8550-0a18c9b0b127" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Tp_classe_et_objet/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tp_classe_et_objet/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tp_classe_et_objet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tp_classe_et_objet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tp_Function.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,16 +41,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/N_gan_E_ldredg_E/IdeaProjects/dev_mobile/tp_Function/out/production",
+    "last_opened_file_path": "C:/Users/N_gan_E_ldredg_E/IdeaProjects/tp_dev_mobile/tp_Function",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\N_gan_E_ldredg_E\IdeaProjects\dev_mobile\tp_Function\out\production" />
-      <recent name="C:\Users\N_gan_E_ldredg_E\IdeaProjects\dev_mobile\tp_Function\src\main\kotlin" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
