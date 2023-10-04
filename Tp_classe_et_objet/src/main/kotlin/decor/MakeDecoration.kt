@@ -10,4 +10,14 @@ fun makeDecorations() {
 
     println (decoration1.equals(decoration2))
     println (decoration3.equals(decoration2))
+
+    val d5 = Decoration2("diamant", "bibinga", "gravier")
+    println(d5)
+
+    // Assignation de chaque propriété à une variable.
+    val (rock, wood, diver) = d5
+    println(rock)
+    println(wood)
+    println(diver)
+    // ici ce sont les varables qui sont dans le code. ces dernières sont fonction de l'entrée initiale dans Décoration.
 }
