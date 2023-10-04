@@ -14,9 +14,11 @@ fun buildAquarium() {
 
 fun makeFish() {
     val Requin = Requin()
+    println("Le Requin: ${Requin.color}")
+    Requin.eat()
     val pleco = Plecostomus()
-
-    println("Requin: ${Requin.color}")
+    println("les Plecostomus: ${pleco.color}")
+    pleco.eat()
     println("Plecostomus: ${pleco.color}")
 }
 
