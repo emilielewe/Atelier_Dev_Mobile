@@ -3,7 +3,8 @@ package example.myapp
 class Aquarium(var length: Int = 100, var width: Int = 20, var height: Int = 40) {
     var volume: Int
         get() = width * height * length / 1000  // 1000 cm^3 = 1 litre
-        set(value) { height = (value * 1000) / (width * length)}
+        private set(value) { height = (value * 1000) / (width * length)}
+    // Ici le volume ne pourra pas être modifié hors de cette classe mais pourra être utilisé partout.
     fun printSize() {
         println("Width: $width cm " +
                 "Length: $length cm " +
