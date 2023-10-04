@@ -12,8 +12,16 @@ fun buildAquarium() {
     myTower.printSize()// appelle de la fonction .printSize() hérité de la classe mère Aquarium
 }
 
+fun makeFish() {
+    val Requin = Requin()
+    val pleco = Plecostomus()
+
+    println("Requin: ${Requin.color}")
+    println("Plecostomus: ${pleco.color}")
+}
+
 fun main() {
     buildAquarium()
-
+    makeFish()
 }
 
