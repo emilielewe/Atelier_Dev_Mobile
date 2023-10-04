@@ -25,9 +25,6 @@ class Requin: FishAction, FishColor  {
     }
 }
 
-class Plecostomus: FishAction, FishColor by GoldColor {
-    // utilisation de la délégation de FishColor à GoldColor. Ici plus besoin de préciser la couleur dans la sous classe.
-    override fun eat() {
-        println("eat algae")
-    }
-}
+class Plecostomus (fishColor: FishColor = GoldColor):
+    FishAction by PrintingFishAction("mangent des algues"),
+    FishColor by fishColor
