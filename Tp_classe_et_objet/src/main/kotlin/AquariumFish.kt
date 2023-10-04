@@ -1,24 +1,23 @@
 package example.myapp
 
-abstract class AquariumFish {
-    // classe abstraite; qui ne porte pas de fonction propre
-    abstract val color: String
-}
 interface FishAction  {
     // Interface qui va venir animer la classe abstraite
     fun eat()
 }
-class Requin: AquariumFish() {
+interface FishColor {
+    val color: String
+}
+class Requin: FishAction, FishColor  {
     //sous classe de la classe abstraite
     override val color = "gris"
-    fun eat() {
+    override fun eat() {
         println("chasse et mange du poisson")
     }
 }
 
-class Plecostomus: AquariumFish() {
+class Plecostomus: FishAction, FishColor {
     override val color = "doré"
-    fun eat() {
+    override fun eat() {
         println("mangent les algues")
     }
 }

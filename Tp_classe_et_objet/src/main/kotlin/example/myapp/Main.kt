@@ -19,7 +19,6 @@ fun makeFish() {
     val pleco = Plecostomus()
     println("les Plecostomus: ${pleco.color}")
     pleco.eat()
-    println("Plecostomus: ${pleco.color}")
 }
 
 fun main() {
