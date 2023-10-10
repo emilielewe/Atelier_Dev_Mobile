@@ -2,31 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6553080c-457c-464e-a38f-388773d64028" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Atelier_Dev_Web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp_classe_et_objet/src/main/kotlin/example/myapp/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp_classe_et_objet/tp_classe_et_objet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp_function/tp_Function.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tp_Function/HelloKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tp_Function/META-INF/tp_Function.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tp_Function/Tp_objet_et_classe/example/myapp/Aquarium.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tp_Function/Tp_objet_et_classe/example/myapp/MainKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tp_Function/example/myapp/Aquarium.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tp_Function/example/myapp/MainKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Hello.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Tp_objet_et_classe/example/myapp/Aquarium.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Tp_objet_et_classe/example/myapp/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/example/myapp/Aquarium.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/example/myapp/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp_Function.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp_classe_et_objet/out/production/tp_classe_et_objet/example/myapp/Aquarium.class" beforeDir="false" afterPath="$PROJECT_DIR$/tp_classe_et_objet/out/production/tp_classe_et_objet/example/myapp/Aquarium.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp_classe_et_objet/out/production/tp_classe_et_objet/example/myapp/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/tp_classe_et_objet/out/production/tp_classe_et_objet/example/myapp/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp_classe_et_objet/src/main/kotlin/example/myapp/Aquarium.kt" beforeDir="false" afterPath="$PROJECT_DIR$/tp_classe_et_objet/src/main/kotlin/example/myapp/Aquarium.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp_classe_et_objet/src/main/kotlin/example/myapp/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/tp_classe_et_objet/src/main/kotlin/example/myapp/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
