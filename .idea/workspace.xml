@@ -2,7 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6553080c-457c-464e-a38f-388773d64028" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/tp_classe_et_objet/src/main/kotlin/example/myapp/Aquarium.kt" beforeDir="false" afterPath="$PROJECT_DIR$/tp_classe_et_objet/src/main/kotlin/example/myapp/Aquarium.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/DiceRoller/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/DiceRoller/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/DiceRoller/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller/app/src/androidTest/java/com/example/diceroller/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/DiceRoller/app/src/androidTest/java/com/example/diceroller/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller/app/src/main/java/com/example/diceroller/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/java/com/example/diceroller/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller/app/src/main/res/xml/backup_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller/app/src/test/java/com/example/diceroller/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/DiceRoller/app/src/test/java/com/example/diceroller/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/DiceRoller/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/DiceRoller/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/DiceRoller/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/DiceRoller/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/DiceRoller/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,13 +49,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
