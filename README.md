@@ -2,6 +2,6 @@
 Travaux Pratiques sur les fonctions en développement mobile
 Nom des participants :
 
-LEWE NONO 
+LEWE NONO EMILIE
 
 MIKE JORDAN ELDREDGE NGAN
